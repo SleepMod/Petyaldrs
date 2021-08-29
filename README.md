@@ -1,0 +1,3 @@
+# Petyaldrs
+Attempts reversing the bootloader source from petya, for studying purposes. The bootloader itself isn't malicious, 
+the small trojan-kernel is, yet trying to research...
